@@ -1,6 +1,8 @@
 # Portafolio / Esteban Pajaro - Desarrollador Web
 
 #### Aqui esta mi poryecto personal, Mi Portafolio Web, Este proyecto esta diseñado para demostrar habilidades, aun se encuentra en proceso, pero puedes mirar el avance 🤠
+##### Si te aparece algun error de diseño, no te asustes, Esta en proceso de finalizacion
+
 
 <h2 align="left"> Tecnologia Utilizada:</h3>
 
